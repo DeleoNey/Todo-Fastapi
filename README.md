@@ -197,4 +197,3 @@ print(r.json())
 * Default database is SQLite for simplicity
 * Passwords are stored hashed using **bcrypt**
 * Frontend automatically handles expired JWT and redirects to login
-* Light theme is enabled in Streamlit
