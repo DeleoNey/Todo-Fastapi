@@ -192,32 +192,6 @@ print(r.json())
 
 ---
 
-## 🖼 Screenshots / UI Examples
-
-### 1. Login Page
-
-![Login Page](docs/screenshots/login.png)
-
-### 2. Registration Page
-
-![Register Page](docs/screenshots/register.png)
-
-### 3. Todos Page (User)
-
-![Todos Page](docs/screenshots/todos_user.png)
-
-### 4. Admin Panel
-
-![Admin Panel](docs/screenshots/admin_panel.png)
-
-### 5. Profile Page
-
-![Profile Page](docs/screenshots/profile.png)
-
-> Place screenshots in `docs/screenshots/` folder for GitHub to display them.
-
----
-
 ## ⚡ Notes
 
 * Default database is SQLite for simplicity
