@@ -1,4 +1,4 @@
-# ✅ Todo App (FastAPI + Streamlit)
+# Todo App (FastAPI + Streamlit)
 
 A **Todo application** built with **FastAPI** as backend and **Streamlit** as frontend.
 Supports **user registration**, **JWT authentication**, **roles** (`user` / `admin`) and full CRUD operations for todos.
